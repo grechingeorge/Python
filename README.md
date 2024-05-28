@@ -14,10 +14,10 @@
 
 | Название проекта  | Описание | Библиотеки|
 | ------------- | ------------- | ------------- |
-| [Построение модели определения стоимости автомобиля](https://github.com/grechingeorge/Python/blob/main/Cost_car.ipynb) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница) | pandas |
-| [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/grechingeorge/Python/blob/main/Flats_SPB)| Анализ зависимости семейного положения, количества детей, зарплаты и целей клиента на факт погашения кредита в срок. Входные данные — статистика о платёжеспособности клиентов банка. | pandas, scipy, matplotlib|
-| [Прогнозирование оттока клиента IT компании]()|Анализ зависимостей разных параметров на стоимость квартир в Санкт-Петербурге и области| pandas, matplotlib, seaborn|
-| [Прогнозирование оттока телеком компании](https://github.com/grechingeorge/Python/blob/main/Telecom_final.ipynb)|Анализ зависимостей разных параметров на стоимость квартир в Санкт-Петербурге и области| pandas, matplotlib, seaborn|
-| [Классификаиция клиентов телеком компании](https://github.com/grechingeorge/Python/blob/main/customer%20churn%20.ipynb)|Анализ зависимостей разных параметров на стоимость квартир в Санкт-Петербурге и области| pandas, matplotlib, seaborn|
-| [Прогнозирование количества заказов такси на следующий час](https://github.com/grechingeorge/Python/blob/main/taxi%20forecasting.ipynb)|Анализ зависимостей разных параметров на стоимость квартир в Санкт-Петербурге и области| pandas, matplotlib, seaborn|
+| [Построение модели определения стоимости автомобиля](https://github.com/grechingeorge/Python/blob/main/Cost_car.ipynb) | Разработка системы рекомендации стоимости автомобиля на основе его описания | pandas,  LGBM, catboost |
+| [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/grechingeorge/Python/blob/main/Flats_SPB)| Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир | pandas, scipy, matplotlib|
+| [Прогнозирование оттока сотрудника компании](https://github.com/grechingeorge/Python/blob/main/HR.ipynb)|На основе данных определить сотрудника, который может уйти| pandas, matplotlib, seaborn|
+| [Прогнозирование оттока телеком компании](https://github.com/grechingeorge/Python/blob/main/Telecom_final.ipynb)|Прогнозирование оттока телеком компании.| pandas, matplotlib, seaborn|
+| [Классификаиция клиентов телеком компании](https://github.com/grechingeorge/Python/blob/main/customer%20churn%20.ipynb)|На основе данных предложить клиенту тариф.| pandas, matplotlib, Scikit-leaen|
+| [Прогнозирование количества заказов такси на следующий час](https://github.com/grechingeorge/Python/blob/main/taxi%20forecasting.ipynb)|Разработка системы предсказания объема заказа.| pandas, Scikit-learn statsmodel|
 | [---]()|Анализ зависимостей разных параметров на стоимость квартир в Санкт-Петербурге и области| pandas, matplotlib, seaborn|
