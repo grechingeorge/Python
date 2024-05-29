@@ -13,4 +13,3 @@
 | [Прогнозирование оттока телеком компании](https://github.com/grechingeorge/Python/blob/main/Telecom_final.ipynb)|Прогнозирование оттока телеком компании.| pandas, matplotlib, seaborn|
 | [Классификаиция клиентов телеком компании](https://github.com/grechingeorge/Python/blob/main/customer%20churn%20.ipynb)|На основе данных предложить клиенту тариф.| pandas, matplotlib, Scikit-leaen|
 | [Прогнозирование количества заказов такси на следующий час](https://github.com/grechingeorge/Python/blob/main/taxi%20forecasting.ipynb)|Разработка системы предсказания объема заказа.| pandas, Scikit-learn statsmodel|
-| [---]()|Анализ зависимостей разных параметров на стоимость квартир в Санкт-Петербурге и области| pandas, matplotlib, seaborn|
